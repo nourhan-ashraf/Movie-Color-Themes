@@ -1,7 +1,6 @@
 {
   "name": "City of Stars",
   "type": "dark",
-
   "colors": {
     "editor.background": "#1B1F3B",
     "editor.foreground": "#EDE9FE",
@@ -9,153 +8,165 @@
     "editor.lineHighlightBackground": "#2E3A87",
     "editor.selectionBackground": "#3B3F8C",
     "editor.inactiveSelectionBackground": "#2A2F5A",
-
     "editorIndentGuide.background": "#2E3A87",
     "editorIndentGuide.activeBackground": "#6C63FF",
-
     "editorLineNumber.foreground": "#6B7280",
     "editorLineNumber.activeForeground": "#FFD166",
-
     "activityBar.background": "#141733",
     "activityBar.foreground": "#FFD166",
     "activityBar.inactiveForeground": "#818CF8",
-
     "sideBar.background": "#1B1F3B",
     "sideBar.foreground": "#C7D2FE",
     "sideBar.border": "#2E3A87",
-
     "statusBar.background": "#141733",
     "statusBar.foreground": "#FFD166",
-
     "tab.activeBackground": "#2E3A87",
     "tab.inactiveBackground": "#1B1F3B",
     "tab.activeForeground": "#FFFFFF",
     "tab.inactiveForeground": "#A5B4FC",
     "tab.border": "#2E3A87",
-
     "panel.background": "#141733",
     "panel.border": "#2E3A87",
-
     "terminal.background": "#1B1F3B",
     "terminal.foreground": "#EDE9FE",
-
     "badge.background": "#FFD166",
     "badge.foreground": "#1B1F3B",
-
     "button.background": "#6C63FF",
     "button.foreground": "#FFFFFF",
     "button.hoverBackground": "#7C72FF",
-
     "list.activeSelectionBackground": "#2E3A87",
     "list.hoverBackground": "#2A2F5A",
-
     "scrollbarSlider.background": "#2E3A87",
     "scrollbarSlider.hoverBackground": "#6C63FF"
   },
-
   "tokenColors": [
     {
-      "scope": ["comment", "punctuation.definition.comment"],
+      "scope": [
+        "comment",
+        "punctuation.definition.comment"
+      ],
       "settings": {
         "foreground": "#7C83A3",
         "fontStyle": "italic"
       }
     },
-
     {
-      "scope": ["keyword", "storage", "keyword.control"],
+      "scope": [
+        "keyword",
+        "storage",
+        "keyword.control"
+      ],
       "settings": {
         "foreground": "#6C63FF"
       }
     },
-
     {
-      "scope": ["string", "string.quoted"],
+      "scope": [
+        "string",
+        "string.quoted"
+      ],
       "settings": {
         "foreground": "#C4B5FD"
       }
     },
-
     {
-      "scope": ["constant.numeric"],
+      "scope": [
+        "constant.numeric"
+      ],
       "settings": {
         "foreground": "#FFD166"
       }
     },
-
     {
-      "scope": ["constant.language"],
+      "scope": [
+        "constant.language"
+      ],
       "settings": {
         "foreground": "#FFF3B0"
       }
     },
-
     {
-      "scope": ["entity.name.function", "meta.function-call"],
+      "scope": [
+        "entity.name.function",
+        "meta.function-call"
+      ],
       "settings": {
         "foreground": "#FFF3B0"
       }
     },
-
     {
-      "scope": ["variable", "identifier"],
+      "scope": [
+        "variable",
+        "identifier"
+      ],
       "settings": {
         "foreground": "#EDE9FE"
       }
     },
-
     {
-      "scope": ["entity.name.type", "support.type", "storage.type"],
+      "scope": [
+        "entity.name.type",
+        "support.type",
+        "storage.type"
+      ],
       "settings": {
         "foreground": "#A5B4FC"
       }
     },
-
     {
-      "scope": ["operator", "keyword.operator"],
+      "scope": [
+        "operator",
+        "keyword.operator"
+      ],
       "settings": {
         "foreground": "#93C5FD"
       }
     },
-
     {
-      "scope": ["punctuation"],
+      "scope": [
+        "punctuation"
+      ],
       "settings": {
         "foreground": "#A5B4FC"
       }
     },
-
     {
-      "scope": ["entity.name.tag"],
+      "scope": [
+        "entity.name.tag"
+      ],
       "settings": {
         "foreground": "#6C63FF"
       }
     },
-
     {
-      "scope": ["entity.other.attribute-name"],
+      "scope": [
+        "entity.other.attribute-name"
+      ],
       "settings": {
         "foreground": "#FFD166"
       }
     },
-
     {
-      "scope": ["support.function"],
+      "scope": [
+        "support.function"
+      ],
       "settings": {
         "foreground": "#FFE066"
       }
     },
-
     {
-      "scope": ["markup.heading"],
+      "scope": [
+        "markup.heading"
+      ],
       "settings": {
         "foreground": "#FFD166",
         "fontStyle": "bold"
       }
     },
-
     {
-      "scope": ["invalid"],
+      "scope": [
+        "invalid"
+      ],
       "settings": {
         "foreground": "#FFFFFF",
         "background": "#EF4444"

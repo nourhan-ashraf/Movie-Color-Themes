@@ -26,5 +26,8 @@
         "path": "./themes/the-grand-budapest.json"
       }
     ]
-  }
+  },
+    "extensionDependencies": [
+    "aaron-bond.better-comments"
+  ]
 }
