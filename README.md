@@ -35,13 +35,13 @@ Or manually install from the VSIX file if you have it.
 ## Screenshots
 
 City Of Stars
-<img width="1470" height="842" alt="Screenshot 2026-03-24 at 1 44 19 AM" src="https://github.com/user-attachments/assets/6d473158-2f58-4ab7-b0dc-536dd0264f8b" />
+<img alt="City of Stars" style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/6d473158-2f58-4ab7-b0dc-536dd0264f8b" />
 
 In The Mood For Love
-<img width="1470" height="843" alt="Screenshot 2026-03-24 at 1 44 52 AM" src="https://github.com/user-attachments/assets/22798125-748f-45b1-8395-edbcd10e2591" />
+<img alt="In The Mood For Love" style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/22798125-748f-45b1-8395-edbcd10e2591" />
 
 The Grand Budapest
-<img width="1470" height="843" alt="Screenshot 2026-03-24 at 1 45 21 AM" src="https://github.com/user-attachments/assets/988baaf5-c74f-4ab9-adf4-a6a78cd75b0c" />
+<img alt="The Grand Budapest" style="max-width: 100%; height: auto;" src="https://github.com/user-attachments/assets/988baaf5-c74f-4ab9-adf4-a6a78cd75b0c" />
 
 ## Contributing
 
