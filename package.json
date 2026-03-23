@@ -7,9 +7,15 @@
   "engines": {
     "vscode": "^1.110.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nourhan-ashraf/Movie-Color-Themes-Extension.git"
+  },
   "license": "MIT",
-  "categories": ["Themes"],
-  "icon": "laLaLand.jpg", 
+  "categories": [
+    "Themes"
+  ],
+  "icon": "laLaLand.jpg",
   "contributes": {
     "themes": [
       {
