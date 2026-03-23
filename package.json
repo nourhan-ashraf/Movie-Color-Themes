@@ -2,12 +2,13 @@
   "name": "movie-color-theme",
   "displayName": "Movie Color Themes",
   "description": "A set of VS Code themes inspired by cinematic classics.",
-  "version": "0.0.1",
-  "publisher": "Nourhan Elsherif",
+  "version": "0.0.4",
+  "publisher": "NourhanElsherif",
   "engines": {
     "vscode": "^1.110.0"
   },
   "categories": ["Themes"],
+  "icon": "laLaLand.jpg", 
   "contributes": {
     "themes": [
       {
@@ -27,7 +28,7 @@
       }
     ]
   },
-    "extensionDependencies": [
+  "extensionDependencies": [
     "aaron-bond.better-comments"
   ]
 }
