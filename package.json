@@ -1,8 +1,8 @@
 {
-  "name": "movie-color-themes",
+  "name": "movie-color-theme",
   "displayName": "Movie Color Themes",
   "description": "A set of VS Code themes inspired by cinematic classics.",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "publisher": "NourhanElsherif",
   "engines": {
     "vscode": "^1.110.0"
