@@ -1,0 +1,30 @@
+{
+  "name": "movie-color-theme",
+  "displayName": "Movie Color Themes",
+  "description": "A set of VS Code themes inspired by cinematic classics.",
+  "version": "0.0.1",
+  "publisher": "Nourhan Elsherif",
+  "engines": {
+    "vscode": "^1.110.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "City of Stars",
+        "uiTheme": "vs-dark",
+        "path": "./themes/city-of-stars.json"
+      },
+      {
+        "label": "In the Mood for Love",
+        "uiTheme": "vs-dark",
+        "path": "./themes/in-the-mood-for-love.json"
+      },
+      {
+        "label": "The Grand Budapest",
+        "uiTheme": "vs",
+        "path": "./themes/the-grand-budapest.json"
+      }
+    ]
+  }
+}
