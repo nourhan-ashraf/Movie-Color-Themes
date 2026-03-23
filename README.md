@@ -1,4 +1,4 @@
-# Movie-Palettes-Extension
+# Movie-Color-Themes-VS-Code-Extension
 
 Bring the cinematic vibes of your favorite movies directly into VS Code! 🎬🎨  
 
@@ -34,13 +34,13 @@ Or manually install from the VSIX file if you have it.
 ## Screenshots
 
 City Of Stars
-<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/8ace295b-7e85-4d21-8324-effa4bdea472" />
+<img width="1470" height="843" alt="image" src="https://github.com/user-attachments/assets/5704353e-6757-450f-9820-e311baa7eea7" />
 
 In The Mood For Love
-<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/ab3be774-2e65-4dc1-a0d5-723f3f32e56a" />
+<img width="1470" height="842" alt="image" src="https://github.com/user-attachments/assets/766b1997-a316-4f66-8fd0-56f624e4a349" />
 
 The Grand Budapest
-<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/68e17d01-ff05-4a2d-b817-0b088dffac14" />
+<img width="1469" height="844" alt="image" src="https://github.com/user-attachments/assets/35698e4e-29d0-4076-8c49-766ba1fdb38c" />
 
 ## Contributing
 
