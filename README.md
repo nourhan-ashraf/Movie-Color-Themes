@@ -33,7 +33,14 @@ Or manually install from the VSIX file if you have it.
 
 ## Screenshots
 
-//TO BE ADDED
+City Of Stars
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/8ace295b-7e85-4d21-8324-effa4bdea472" />
+
+In The Mood For Love
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/ab3be774-2e65-4dc1-a0d5-723f3f32e56a" />
+
+The Grand Budapest
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/68e17d01-ff05-4a2d-b817-0b088dffac14" />
 
 ## Contributing
 
