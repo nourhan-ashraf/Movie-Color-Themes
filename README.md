@@ -38,7 +38,7 @@ City Of Stars
 <img width="1470" height="843" alt="image" src="https://github.com/user-attachments/assets/5704353e-6757-450f-9820-e311baa7eea7" />
 
 In The Mood For Love
-<img width="1470" height="842" alt="image" src="https://github.com/user-attachments/assets/766b1997-a316-4f66-8fd0-56f624e4a349" />
+<img width="1470" height="842" alt="Screenshot 2026-03-24 at 1 39 17 AM" src="https://github.com/user-attachments/assets/6f792379-69f7-49aa-8422-c32869bbe910" />
 
 The Grand Budapest
 <img width="1469" height="844" alt="image" src="https://github.com/user-attachments/assets/35698e4e-29d0-4076-8c49-766ba1fdb38c" />
