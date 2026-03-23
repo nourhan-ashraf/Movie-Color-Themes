@@ -1,0 +1,66 @@
+{
+  "name": "The Grand Budapest",
+  "type": "light",
+  "colors": {
+    "editor.background": "#FDECF9",
+    "editor.foreground": "#4B0B35",
+    "editorCursor.foreground": "#FFD166",
+    "editor.lineHighlightBackground": "#FAD6F4",
+    "editor.selectionBackground": "#F8BFF1",
+    "activityBar.background": "#F9DFF8",
+    "activityBar.foreground": "#4B0B35",
+    "sideBar.background": "#FDECF9",
+    "sideBar.foreground": "#4B0B35",
+    "statusBar.background": "#F9DFF8",
+    "statusBar.foreground": "#4B0B35",
+    "tab.activeBackground": "#F8D6F2",
+    "tab.inactiveBackground": "#FDECF9",
+    "tab.activeForeground": "#4B0B35",
+    "tab.inactiveForeground": "#C77EBF"
+  },
+  "tokenColors": [
+    {
+      "scope": ["keyword"],
+      "settings": {
+        "foreground": "#E27FE2"
+      }
+    },
+    {
+      "scope": ["string"],
+      "settings": {
+        "foreground": "#4ED6D6"
+      }
+    },
+    {
+      "scope": ["constant.numeric"],
+      "settings": {
+        "foreground": "#FFD166"
+      }
+    },
+    {
+      "scope": ["entity.name.function"],
+      "settings": {
+        "foreground": "#B00070",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": ["variable"],
+      "settings": {
+        "foreground": "#4B0B35"
+      }
+    },
+    {
+      "scope": ["entity.name.type"],
+      "settings": {
+        "foreground": "#4ED6D6"
+      }
+    },
+    {
+      "scope": ["operator"],
+      "settings": {
+        "foreground": "#77D0E0"
+      }
+    }
+  ]
+}

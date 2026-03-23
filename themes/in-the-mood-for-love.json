@@ -1,0 +1,31 @@
+{
+  "name": "In the Mood for Love",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#2C0E0A",
+    "editor.foreground": "#FDE2E4",
+    "editorCursor.foreground": "#FFD700",
+    "editor.lineHighlightBackground": "#4A1C18",
+    "editor.selectionBackground": "#6B1F1C",
+    "activityBar.background": "#220B08",
+    "activityBar.foreground": "#FFD700",
+    "sideBar.background": "#2C0E0A",
+    "sideBar.foreground": "#F9CACA",
+    "statusBar.background": "#220B08",
+    "statusBar.foreground": "#FFD700",
+    "tab.activeBackground": "#4A1C18",
+    "tab.inactiveBackground": "#2C0E0A",
+    "tab.activeForeground": "#FFEAB0",
+    "tab.inactiveForeground": "#F9CACA"
+  },
+  "tokenColors": [
+    { "scope": ["comment"], "settings": { "foreground": "#A87373", "fontStyle": "italic" } },
+    { "scope": ["keyword"], "settings": { "foreground": "#FF6B6B" } },
+    { "scope": ["string"], "settings": { "foreground": "#FECACA" } },
+    { "scope": ["constant.numeric"], "settings": { "foreground": "#FFD700" } },
+    { "scope": ["entity.name.function"], "settings": { "foreground": "#FFE066" } },
+    { "scope": ["variable"], "settings": { "foreground": "#FDE2E4" } },
+    { "scope": ["entity.name.type"], "settings": { "foreground": "#F8AFA6" } },
+    { "scope": ["operator"], "settings": { "foreground": "#FFB347" } }
+  ]
+}
