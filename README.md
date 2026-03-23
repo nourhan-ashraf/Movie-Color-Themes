@@ -33,7 +33,8 @@ Or manually install from the VSIX file if you have it.
 
 ## Screenshots
 
-//tO BE ADDED
+//TO BE ADDED
+
 ## Contributing
 
 Feel free to suggest new movie palettes or submit PRs!  
@@ -41,4 +42,4 @@ Make sure to follow the JSON theme structure used for existing themes.
 
 ## License
 
-//TO BE ADDED
+This project is licensed under the [MIT License](LICENSE).
