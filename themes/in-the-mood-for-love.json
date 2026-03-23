@@ -49,16 +49,6 @@
   "tokenColors": [
     {
       "scope": [
-        "comment",
-        "punctuation.definition.comment"
-      ],
-      "settings": {
-        "foreground": "#8B6B6B",
-        "fontStyle": "italic"
-      }
-    },
-    {
-      "scope": [
         "keyword",
         "storage",
         "keyword.control"
