@@ -1,6 +1,7 @@
-# Movie-Color-Themes-VS-Code-Extension
+# 🎬🎨 Movie Color Themes
+## VS Code Extension
 
-Bring the cinematic vibes of your favorite movies directly into VS Code! 🎬🎨  
+Bring the cinematic vibes of your favorite movies directly into VS Code! 
 
 This extension includes multiple **movie-inspired color themes** for VS Code, allowing you to code in style.  
 
