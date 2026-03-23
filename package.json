@@ -1,5 +1,5 @@
 {
-  "name": "movie-color-theme",
+  "name": "movie-color-themes",
   "displayName": "Movie Color Themes",
   "description": "A set of VS Code themes inspired by cinematic classics.",
   "version": "0.0.5",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nourhan-ashraf/Movie-Color-Themes-Extension.git"
+    "url": "https://github.com/nourhan-ashraf/Movie-Color-Themes.git"
   },
   "license": "MIT",
   "categories": [
